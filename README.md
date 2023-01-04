@@ -1,2 +1,2 @@
 # dbt_learn
-Learn dbt
+Learn dbt Cloud
